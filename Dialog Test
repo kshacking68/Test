@@ -1,57 +1,33 @@
 {
-  "Dialog_Title": "📢ÄŅŅÖŮŅĊËМËŅȚ📢",
-  
-  "Title_Color": "#FF003DF5",
-  
-  "Message_Color": "#FF000000",
-  
-  "Dialog_Message": "😘😖👍🥺🥰😁🥺🥰",
-
-
-
+  "Cancel_Button_Text_Color": "#FF00C832",
   "Dialog_Background_Color": "#FFFFFFFF",
-  
-  "Dialog_Stroke_Color": "#FF00F57B",
-  
-  
-  
-  "Download_Link": "https://telegram.me/kshacking",
-  
-  "Okay_Button_Text": "Download",
-  
-  "Okay_Button_Text_Color": "#FFF50000",
-  
-  
-  
-  "Update_Type": "true",
-  
-  "New_Version": "5",
-  
-  "Show_Time": "5",
-  
-  
-  
-  "isCancelable": "false",
-  
-  "Cancel_Button_Text_Color": "#FF009ACD",
-  
-  
-  
-  
-  "More_Button_Text_Color": "#FF003FFF",
-  
-  "More_Visibility": "VISIBLE",
-  
-  "Website_Link": "http://kshacking.unaux.com/",
-  
-  "Share_Mod_Text": "KS Hacking Telegram Channel Best For Fake ShareChat Apps 😎🤏",
-  
-  
-  
- 
-  
-  "User_Name": "oUSKBSAKY11phQ8ep8kKe3Ky0kPSvtDLS2jv4iltMhOOmQY9f6DnXtwyS/APktMqxCyH8j+lOJK8+VSmscbn0A==",
-  
-  "Preference": "1673350164505"
+  "Dialog_Message": "ㅤ🔥🔥𝐌ᴜᴛᴇ 𝐒ʜᴀʀᴇ𝐂ʜᴀᴛ🔥🔥
+<br>
+<br>
 
+    🔇𝐌ᴜᴛᴇ 𝐒ʜᴀʀᴇ𝐂ʜᴀᴛ 𝐋ᴀᴛᴇ𝐬ᴛ 𝐀ᴘᴘ🔇
+<br><br>
+             
+      𝐋ᴀᴛᴇ𝐬ᴛ  𝐕ᴇʀ𝐬ɪᴏɴ  𝐂ᴏᴍɪɴɢ  𝐒ᴏᴏɴ<br><br>
+
+🎉🎉𝐆ᴇᴛ 𝐑ᴇᴀᴅʏ 𝐓ᴏ 𝐃ᴏᴡɴʟᴏᴀᴅ🎉🎉",
+  "Dialog_Stroke_Color": "#FF00FF40",
+  "Dialog_Title": "📢ÄŅŅÖŮŅĊËМËŅȚ📢",
+  "Download_Link": "https://youtu.be/m4NdoYRC67o",
+  "Message_Color": "#FF000000",
+  "More_Button_Text_Color": "#FFC80000",
+  "More_Visibility": "VISIBLE",
+  "New_Version": "1.2",
+  "Okay_Button_Text": "Download",
+  "Okay_Button_Text_Color": "#FFC80000",
+  "Preference": "1688865734197",
+  "Share_Mod_Text": "KS hacking telegram channel is best for ShareChat",
+  "Show_Time": "2",
+  "Title_Color": "#FF0040FF",
+  "Update_Type": "false",
+  "User_Name": "oUSKBSAKY11phQ8ep8kKe3Ky0kPSvtDLS2jv4iltMhOOmQY9f6DnXtwyS/APktMqxCyH8j+lOJK8
++VSmscbn0A==
+",
+  "Website_Link": "https://youtube.com/shorts/_eEosFbDols?feature=share",
+  "isCancelable": "true"
 }
